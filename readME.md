@@ -6,4 +6,4 @@
 
 - starting to put it all toghether and using md more often  
 
-- More imprrovement as i better understand how to manipulate the dom
+- More improvement as i better understand how to manipulate the dom

@@ -1,0 +1,41 @@
+#heade{
+    text-align: center;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+/*
+    centered text looking to add background color to specific section basically the container section
+*/
+#buttonElement{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+    #fortune{
+        display: block;
+        color: #EFBB24;
+        font-size: 24px;
+        text-align: center;
+}
+ 
+    #mainMessage{
+        text-align: center;
+        display: block;
+        font-size: 24px;
+}
+
+    body{
+       background-color: crimson; 
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    #author{
+        text-align: center;
+        color: azure;
+        font-style: italic;
+        font-weight: bold;
+}

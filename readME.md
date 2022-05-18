@@ -1,8 +1,8 @@
-# Mixed Messgaes MD
+# Mixed Messages MD
 
 - html to display the code
 
-- index.jS for the back-ground  
+- index.jS for the back-ground / scripts  
 
 - starting to put it all toghether and using md more often  
 
